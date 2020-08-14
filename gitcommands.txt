@@ -48,5 +48,20 @@ Untracked-Staged-Unmodified-Modified-Staged
 	    git status -s
 -To ignore files-
 	    create .gitignore file and put the name of file that can ignore
--
+
+***Branches in Git***
+-To Create Branch-
+		git branch feature1
+-To view list of branch-
+		git branch
+-Switch the branch-
+		git checkout feature1
+-merge both branch-
+		git merge feature1
+-Switch and make a new branch-
+		git checkout -b feature2
+--For Push the repository--
+		git push -u origin master
+-for clone-
+		git clone link
 
