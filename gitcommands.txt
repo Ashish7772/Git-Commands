@@ -22,9 +22,14 @@ Untracked-Staged-Unmodified-Modified-Staged
 -For commit -
             git commit 
             insert- Initial commit
+-For multiple commit-
+	    git commit -m "Any msg"
 -Create blank file-
 	    touch ashish.txt
 -To Add multiple file in git staged-
 	    git add -A
+-For recover any file-
+	    git checkout gitcommands.txt
+-
 
 
