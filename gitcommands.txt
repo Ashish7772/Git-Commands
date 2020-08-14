@@ -30,6 +30,23 @@ Untracked-Staged-Unmodified-Modified-Staged
 	    git add -A
 -For recover any file-
 	    git checkout gitcommands.txt
+-For recover multiple file-
+	    git checkout -f
+-Saw commit log history-
+	    git log
+-saw last 2 commit history-
+	    git log -p -2
+-Show difference b/w files-
+	    git dif
+-compare with last stages-
+	    git diff --staged
+-remove file only from staged-
+	    git rm --cached waste.html
+-remove file completely-
+	    git rm waste.html
+-To see status in short-
+	    git status -s
+-To ignore files-
+	    create .gitignore file and put the name of file that can ignore
 -
-
 
