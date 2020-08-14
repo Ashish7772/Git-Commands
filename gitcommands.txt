@@ -1,14 +1,30 @@
-Show user- 
+-Show user- 
            git config --global user.name
-Show Email-
+-Show Email-
            git config --global user.email
-Set user-
+-Set user-
            git config --global user.name Ashish7772
-Set Gmail-
+-Set Gmail-
    	   git config --global user.gmail ashishaggarwal7772@gmail.com
-For initilaize-
+-For initilaize-
 	   git init
-For list with hidden folders-
+-For list with hidden folders-
            ls -lart
-For Status-
+-For Status-
 	   git status
+
+Untracked Unmodified Modified Staged
+
+Untracked-Staged-Unmodified-Modified-Staged
+
+-To add file in git staged=
+            git add gitcommands.txt
+-For commit -
+            git commit 
+            insert- Initial commit
+-Create blank file-
+	    touch ashish.txt
+-To Add multiple file in git staged-
+	    git add -A
+
+
