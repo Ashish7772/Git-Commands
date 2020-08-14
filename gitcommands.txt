@@ -1,0 +1,14 @@
+Show user- 
+           git config --global user.name
+Show Email-
+           git config --global user.email
+Set user-
+           git config --global user.name Ashish7772
+Set Gmail-
+   	   git config --global user.gmail ashishaggarwal7772@gmail.com
+For initilaize-
+	   git init
+For list with hidden folders-
+           ls -lart
+For Status-
+	   git status
